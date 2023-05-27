@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VigilVanDijk
-- 👀 I’m interested in learning DSA and AI
-- 🌱 I’m currently learning C++ and SQL
-- 💞️ I’m looking to collaborate on complex problems on all things DSA
+- 👀 I’m interested in learning App Dev and UI
+- 🌱 I’m currently learning Kotlin, Java and Javascript 
 - 📫 How to reach me rohitjoshislav@gmail.com
 
 <!---

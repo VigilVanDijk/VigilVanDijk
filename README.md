@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VigilVanDijk
-- 👀 I’m interested in learning App Dev and UI
+- 👀 Learning App Dev and UI
 - 🌱 I’m currently learning Kotlin, Java and Javascript 
 - 📫 How to reach me rohitjoshislav@gmail.com
 

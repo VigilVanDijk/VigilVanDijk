@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @VigilVanDijk
-- 👀 Learning App Dev and UI
+- 👀 Learning App Dev Machine Learning\
+- Also Learning Convolutional Nueral Networks for Scene Graph Generation
 - 🌱 I’m currently learning Kotlin, Java and Javascript 
 - 📫 How to reach me rohitjoshislav@gmail.com
 
